@@ -3,6 +3,12 @@ import shutil
 from pathlib import Path
 import zipfile
 
+# Step 0: Clean current directory: remove all directories and subdirs in '.'
+for item in Path('.').iterdir():
+    if item.is_dir():
+        shutil.rmtree(item)
+print("All directories in the current directory have been deleted.")
+
 # Step 1: Copy everything from ../cyberverse_concepts to current dir
 src = Path("../cyberverse_concepts")
 dst = Path("./")
