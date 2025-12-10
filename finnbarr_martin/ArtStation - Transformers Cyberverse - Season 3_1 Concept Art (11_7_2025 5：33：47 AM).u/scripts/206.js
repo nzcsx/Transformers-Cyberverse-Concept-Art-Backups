@@ -1,0 +1,20 @@
+(()=>{"use strict";var e,m={},v={};function t(e){var f=v[e];if(void 0!==f)return f.exports;var a=v[e]={exports:{}};return m[e].call(a.exports,a,a.exports,t),a.exports}t.m=m,t.amdD=function(){throw new Error("define cannot be used indirect")},e=[],t.O=(f,a,d,c)=>{if(!a){var r=1/0;for(n=0;n<e.length;n++){for(var[a,d,c]=e[n],b=!0,i=0;i<a.length;i++)(!1&c||r>=c)&&Object.keys(t.O).every(p=>t.O[p](a[i]))?a.splice(i--,1):(b=!1,c<r&&(r=c));if(b){e.splice(n--,1);var u=d();void 0!==u&&(f=u)}}return f}c=c||0;for(var n=e.length;n>0&&e[n-1][2]>c;n--)e[n]=e[n-1];e[n]=[a,d,c]},t.n=e=>{var f=e&&e.__esModule?()=>e.default:()=>e;return t.d(f,{a:f}),f},t.d=(e,f)=>{for(var a in f)t.o(f,a)&&!t.o(e,a)&&Object.defineProperty(e,a,{enumerable:!0,get:f[a]})},t.f={},t.e=e=>Promise.all(Object.keys(t.f).reduce((f,a)=>(t.f[a](e,f),f),[])),t.u=e=>(76===e?"common":e)+"."+{37:"083e047bc2ef14d8",73:"4d9f98ef99943758",76:"68f4bdbcf9d4de0e",109:"2774b1fab97467d7",111:"b8a5811efd67147d",157:"af348aec6e8c3095",200:"77b509a82d96a50e",274:"66521de931a59f11",313:"c12ac9457920043f",323:"44b525524391df68",379:"6430a9f74eb4d332",418:"f8018204bc079f2f",464:"8033675528f9422c",467:"919785e40bcfca46",536:"740781ea8b05db79",572:"d9c00cbc8050d951",580:"f62a80992f0cabcb",582:"b9c2de66d9a0a69f",691:"39705fdafdb6b983",750:"b1d0f9859d451915",811:"9781ebe7be093843",825:"cf64586567912344",832:"e57ac106bf2f37d5",850:"0072bb73f395b80b",883:"3f18e7ddb8dcf6de",894:"a0ad3fdd25e4df9f",899:"736cf8b1a3f74f44",916:"09732657eb02f8b1",934:"764dc0e6932acd37",952:"9b1af9d2b9d2d48c",995:"9e724c3387a115d9"}[e]+".js",t.miniCssF=e=>{},t.o=(e,f)=>Object.prototype.hasOwnProperty.call(e,f),(()=>{var e={},f="community:";t.l=(a,d,c,n)=>{if(e[a])e[a].push(d);else{var r,b;if(void 0!==c)for(var i=document.getElementsByTagName("script"),u=0;u<i.length;u++){var o=i[u];if(o.getAttribute("src")==a||o.getAttribute("data-webpack")==f+c){r=o;break}}r||(b=!0,(r=document.createElement("script")).type="module",r.charset="utf-8",r.timeout=120,t.nc&&r.setAttribute("nonce",t.nc),r.setAttribute("data-webpack",f+c),r.src=t.tu(a)),e[a]=[d];var l=(g,p)=>{r.onerror=r.onload=null,clearTimeout(s);var y=e[a];if(delete e[a],r.parentNode&&r.parentNode.removeChild(r),y&&y.forEach(_=>_(p)),g)return g(p)},s=setTimeout(l.bind(null,void 0,{type:"timeout",target:r}),12e4);r.onerror=l.bind(null,r.onerror),r.onload=l.bind(null,r.onload),b&&document.head.appendChild(r)}}})(),t.r=e=>{typeof Symbol<"u"&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},(()=>{var e;t.tt=()=>(void 0===e&&(e={createScriptURL:f=>f},typeof trustedTypes<"u"&&trustedTypes.createPolicy&&(e=trustedTypes.createPolicy("angular#bundler",e))),e)})(),t.tu=e=>t.tt().createScriptURL(e),t.p="/community/assets/",(()=>{var e={121:0};t.f.j=(d,c)=>{var n=t.o(e,d)?e[d]:void 0;if(0!==n)if(n)c.push(n[2]);else if(121!=d){var r=new Promise((o,l)=>n=e[d]=[o,l]);c.push(n[2]=r);var b=t.p+t.u(d),i=new Error;t.l(b,o=>{if(t.o(e,d)&&(0!==(n=e[d])&&(e[d]=void 0),n)){var l=o&&("load"===o.type?"missing":o.type),s=o&&o.target&&o.target.src;i.message="Loading chunk "+d+" failed.\n("+l+": "+s+")",i.name="ChunkLoadError",i.type=l,i.request=s,n[1](i)}},"chunk-"+d,d)}else e[d]=0},t.O.j=d=>0===e[d];var f=(d,c)=>{var i,u,[n,r,b]=c,o=0;if(n.some(s=>0!==e[s])){for(i in r)t.o(r,i)&&(t.m[i]=r[i]);if(b)var l=b(t)}for(d&&d(c);o<n.length;o++)t.o(e,u=n[o])&&e[u]&&e[u][0](),e[u]=0;return t.O(l)},a=self.webpackChunkcommunity=self.webpackChunkcommunity||[];a.forEach(f.bind(null,0)),a.push=f.bind(null,a.push.bind(a))})()})();/*
+     FILE ARCHIVED ON 18:22:15 Sep 04, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:32:49 Nov 07, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.676
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.009
+  esindex: 0.012
+  cdx.remote: 39.17
+  LoadShardBlock: 516.188 (3)
+  PetaboxLoader3.resolve: 412.014 (3)
+  PetaboxLoader3.datanode: 347.055 (4)
+  load_resource: 249.006
+*/
